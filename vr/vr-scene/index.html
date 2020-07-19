@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>VR Cube Wearables</title>
+        
+        <meta charset="UTF-8">
+        <link rel="icon" type="image/png" href="assets/favicon.png">
+
+        <!-- Adding in the A-Frame library -->
+
+        <!-- 
+            CDN Version of the A-Frame library. Use this version if the local version
+            of the library isn't working properly.
+        -->
+        <!-- <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script> -->
+        
+        <!-- Local version of the A-Frame library -->
+        <script src="libs/aframe.min.js"></script>
+    </head>
+    <body>
+
+        <!-- Creating the new VR scene -->
+        <a-scene>
+
+            <!-- Container for all of the static assets in the scene -->
+            <a-assets>
+                <!-- Texture for the floor -->
+                <img id="floor-texture" src="assets/floor.png">
+
+                <!-- Texture for the virtual hand -->
+                <img id="hand-texture" src="assets/platform.png">
+
+                <!-- All textures for the Rubik's cube model -->
+                <img id="white-side" src="assets/white-side.png">
+                <img id="yellow-side" src="assets/yellow-side.png">
+                <img id="red-side" src="assets/red-side.png">
+                <img id="orange-side" src="assets/orange-side.png">
+                <img id="green-side" src="assets/green-side.png">
+                <img id="blue-side" src="assets/blue-side.png">
+            </a-assets>
+            
+
+            <!-- Adding in background features to the scene, such as the camera and the skybox -->
+            <a-sky src="assets/skybox.jpg"></a-sky>
+
+            <a-camera 
+                position="-2 5 7" 
+                rotation="0 0 0">
+            </a-camera>
+
+
+            <!-- Adding in objects used in the scene -->
+            <!-- Floor object -->
+            <a-cylinder 
+                position="0 -6 0" 
+                material="src: #floor-texture" 
+                repeat="100 100" 
+                width="100" 
+                height="1" 
+                radius="100">
+            </a-cylinder>
+
+            <!-- Movable Rubik's Cube -->
+            <a-entity id="cube-container">
+                <a-entity 
+                    id="cube" 
+                    position="0 3 0" 
+                    rotation="0 45 0">
+
+                    <!-- 
+                        Creating a cube internally to fill in any gaps between the different faces
+                        of the Rubik's cube
+                    -->
+                    <a-box 
+                        color="#000000" 
+                        position="0 0 -0.5" 
+                        width="0.98" 
+                        height="0.98" 
+                        depth="0.98">
+                    </a-box>
+
+                    <!-- Adding all of the different colored sides to the Rubik's cube -->
+                    <!-- White Side -->
+                    <a-box 
+                        material="src: #white-side" 
+                        repeat="3 3" 
+                        position="0 0.5 -0.5" 
+                        rotation="90 0 0" 
+                        width="1" 
+                        height="1" 
+                        depth="0.01">
+                    </a-box>
+
+                    <!-- Yellow Side -->
+                    <a-box 
+                        material="src: #yellow-side" 
+                        repeat="3 3" 
+                        position="0 -0.5 -0.5" 
+                        rotation="90 0 0" 
+                        width="1" 
+                        height="1" 
+                        depth="0.01">
+                    </a-box>
+
+                    <!-- Red Side -->
+                    <a-box 
+                        material="src: #red-side" 
+                        repeat="3 3" 
+                        position="0 0 -1" 
+                        rotation="0 0 0" 
+                        width="1" 
+                        height="1" 
+                        depth="0.01">
+                    </a-box>
+
+                    <!-- Orange Side -->
+                    <a-box 
+                        material="src: #orange-side" 
+                        repeat="3 3" 
+                        position="0 0 0" 
+                        rotation="0 0 0" 
+                        width="1" 
+                        height="1" 
+                        depth="0.01">
+                    </a-box>
+
+                    <!-- Green Side -->
+                    <a-box 
+                        material="src: #green-side" 
+                        repeat="3 3" 
+                        position="0.5 0 -0.5" 
+                        rotation="0 90 0" 
+                        width="1" 
+                        height="1" 
+                        depth="0.01">
+                    </a-box>
+
+                    <!-- Blue Side -->
+                    <a-box 
+                        material="src: #blue-side" 
+                        repeat="3 3" 
+                        position="-0.5 0 -0.5" 
+                        rotation="0 90 0" 
+                        width="1" 
+                        height="1" 
+                        depth="0.01">
+                    </a-box>
+                </a-entity>
+            </a-entity>
+
+            <!-- Movable Hand -->
+            <a-box 
+                id="hand" 
+                position="0 0 0" 
+                material="src: #hand-texture" 
+                repeat="10 4" 
+                width="5" 
+                height="1.5" 
+                depth="5">
+            </a-box>
+
+            <!-- 
+                Background board used to describe keyboard shortcuts and other details needed to
+                understand how to interact with objects in the scene
+            -->
+            <a-entity position="0 5 0">
+                <!-- The board -->
+                <a-box 
+                    position="0 0 0" 
+                    color="#000000" 
+                    width="8" 
+                    height="4" 
+                    depth="0.25">
+                </a-box>
+
+                <!-- Header text on the board -->
+                <a-text 
+                    position="-3.598 1.503 0.139" 
+                    width="7.5" 
+                    color="#ffffff" 
+                    wrap-count="32" 
+                    font="sourcecodepro" 
+                    value="
+                        DGMD S-14 Harvard Final Project
+                    ">
+                </a-text>
+
+                <!-- Text for the various commands -->
+                <a-text 
+                    position="-3.598 -0.2 0.139" 
+                    width="8" 
+                    color="#55ffff" 
+                    wrap-count="46" 
+                    font="sourcecodepro" 
+                    value="
+                        ==========================================
+                        Commands
+                        ------------------------------------------
+                        * [Ctrl + Alt + C] - Reset cube position
+                        * [Ctrl + Alt + H] - Reset hand position
+                        ==========================================
+                    ">
+                </a-text>
+            </a-entity>
+
+            <!-- 
+                Background board used to give a description of the project and to add
+                credits to people who worked on the project.
+             -->
+            <a-entity 
+                position="-6.495 4.5 5.5" 
+                rotation="0 90 0">
+
+                <!-- The board -->
+                <a-box 
+                    position="-0.7 0 0" 
+                    color="#000000" 
+                    width="11" 
+                    height="5" 
+                    depth="0.25">
+                </a-box>
+
+                <!-- Text for the credits -->
+                <a-text 
+                    position="2.656 1.620 0.139" 
+                    width="8" 
+                    color="#ffffff" 
+                    wrap-count="80" 
+                    font="sourcecodepro" 
+                    value="
+                        Credits
+                        ---------------
+                        Anthony Mancini
+                        Greg Retter
+                        Brian Wagner
+                        Nawal Al-harbi
+                    ">
+                </a-text>
+
+                <!-- Text for the description -->
+                <a-text 
+                    position="-5.903 0.162 0.139" 
+                    width="8" 
+                    color="#ffffff" 
+                    wrap-count="80" 
+                    font="sourcecodepro" 
+                    value="
+                        Description
+                        ----------------------------------------------------------------------------
+                        This project measures and models the differences between interacting
+                        with a similar object in both the physical world and the virtual
+                        world. During the project, we built a glove with IoT sensors that
+                        connected via web sockets to a web socket server hosted on the AWS
+                        Cloud. Once connected, the user of the glove was able to move a virtual hand
+                        around in a Virtual Reality scene in their web browser. The user interacted
+                        with a virtual rubik's cube that we modeled, and we recorded data
+                        when they interacted with the virtual cube. The user also interacted
+                        with a rubik's cube in the physical world, and we recorded this data
+                        as well. We then compared and modeled the differences between the two
+                        interactions to see how the lack of physical feedback, the presence
+                        of latency, and the differing virtual physics affected the interaction
+                        with the cube. We think the results from this project are relevant to
+                        VR gaming, Engineering Design, Training Apps, Modeling and many 
+                        other applications, and a copy of our results can be found here.
+
+                        We built this project in 2020 while taking the DGMD S-14 course at
+                        Harvard University.
+                    ">
+                </a-text>
+            </a-entity>
+        </a-scene>
+    </body>
+</html>
