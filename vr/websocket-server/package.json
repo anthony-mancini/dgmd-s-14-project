@@ -1,0 +1,16 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "Web socket server for final project in Harvard DGMD S-14 class",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "7.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anthony Mancini",
+  "license": ""
+}
