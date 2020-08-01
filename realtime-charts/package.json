@@ -1,0 +1,17 @@
+{
+  "name": "realtime-charts",
+  "version": "1.0.0",
+  "description": "Real-time terminal charts connected via web socket to plot Adj. ACC_Y values over time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anthony Mancini",
+  "license": "",
+  "dependencies": {
+    "blessed": "0.1.81",
+    "blessed-contrib": "4.8.20",
+    "ws": "7.3.1"
+  }
+}

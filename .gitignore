@@ -1,2 +1,6 @@
-vr/websocket-server/node_modules
-vr/websocket-server/package-lock.json
+websocket-server/node_modules
+websocket-server/package-lock.json
+realtime-charts/node_modules
+realtime-charts/package-lock.json
+wearable-glove/web-socket/node_modules
+wearable-glove/web-socket/package-lock.json
