@@ -1,0 +1,116 @@
+A_y: 993, TimeStamp: 00:19:09.43
+A_y: 996, TimeStamp: 00:19:09.53
+A_y: 983, TimeStamp: 00:19:09.63
+A_y: 1001, TimeStamp: 00:19:09.73
+A_y: 987, TimeStamp: 00:19:09.83
+A_y: 994, TimeStamp: 00:19:09.93
+A_y: 999, TimeStamp: 00:19:10.03
+A_y: 996, TimeStamp: 00:19:10.13
+A_y: 1003, TimeStamp: 00:19:10.23
+A_y: 997, TimeStamp: 00:19:10.33
+A_y: 996, TimeStamp: 00:19:10.43
+A_y: 994, TimeStamp: 00:19:10.53
+A_y: 994, TimeStamp: 00:19:10.63
+A_y: 994, TimeStamp: 00:19:10.73
+A_y: 1000, TimeStamp: 00:19:10.83
+A_y: 996, TimeStamp: 00:19:10.93
+A_y: 1002, TimeStamp: 00:19:11.03
+A_y: 998, TimeStamp: 00:19:11.13
+A_y: 993, TimeStamp: 00:19:11.23
+A_y: 1002, TimeStamp: 00:19:11.33
+A_y: 999, TimeStamp: 00:19:11.43
+A_y: 1002, TimeStamp: 00:19:11.53
+A_y: 993, TimeStamp: 00:19:11.63
+A_y: 993, TimeStamp: 00:19:11.73
+A_y: 988, TimeStamp: 00:19:11.83
+A_y: 989, TimeStamp: 00:19:11.93
+A_y: 980, TimeStamp: 00:19:12.03
+A_y: 994, TimeStamp: 00:19:12.13
+A_y: 985, TimeStamp: 00:19:12.23
+A_y: 1000, TimeStamp: 00:19:12.33
+A_y: 999, TimeStamp: 00:19:12.43
+A_y: 1001, TimeStamp: 00:19:12.53
+A_y: 1001, TimeStamp: 00:19:12.63
+A_y: 1002, TimeStamp: 00:19:12.73
+A_y: 956, TimeStamp: 00:19:12.83
+A_y: 1075, TimeStamp: 00:19:12.93
+A_y: 831, TimeStamp: 00:19:13.03
+A_y: 918, TimeStamp: 00:19:13.13
+A_y: 1008, TimeStamp: 00:19:13.23
+A_y: 990, TimeStamp: 00:19:13.33
+A_y: 909, TimeStamp: 00:19:13.43
+A_y: 948, TimeStamp: 00:19:13.53
+A_y: 994, TimeStamp: 00:19:13.63
+A_y: 1079, TimeStamp: 00:19:13.73
+A_y: 955, TimeStamp: 00:19:13.83
+A_y: 938, TimeStamp: 00:19:13.93
+A_y: 922, TimeStamp: 00:19:14.03
+A_y: 1062, TimeStamp: 00:19:14.13
+A_y: 920, TimeStamp: 00:19:14.23
+A_y: 1044, TimeStamp: 00:19:14.33
+A_y: 949, TimeStamp: 00:19:14.43
+A_y: 941, TimeStamp: 00:19:14.53
+A_y: 973, TimeStamp: 00:19:14.63
+A_y: 1539, TimeStamp: 00:19:14.73
+A_y: 2567, TimeStamp: 00:19:14.83
+A_y: 1199, TimeStamp: 00:19:14.93
+A_y: 747, TimeStamp: 00:19:15.03
+A_y: 1551, TimeStamp: 00:19:15.13
+A_y: 1454, TimeStamp: 00:19:15.23
+A_y: 1174, TimeStamp: 00:19:15.33
+A_y: 878, TimeStamp: 00:19:15.43
+A_y: 886, TimeStamp: 00:19:15.53
+A_y: 1323, TimeStamp: 00:19:15.63
+A_y: 1063, TimeStamp: 00:19:15.73
+A_y: 1210, TimeStamp: 00:19:15.83
+A_y: 1131, TimeStamp: 00:19:15.93
+A_y: 937, TimeStamp: 00:19:16.03
+A_y: 983, TimeStamp: 00:19:16.13
+A_y: 1014, TimeStamp: 00:19:16.23
+A_y: 922, TimeStamp: 00:19:16.33
+A_y: 907, TimeStamp: 00:19:16.43
+A_y: 1144, TimeStamp: 00:19:16.53
+A_y: 933, TimeStamp: 00:19:16.63
+A_y: 1026, TimeStamp: 00:19:16.73
+A_y: 999, TimeStamp: 00:19:16.83
+A_y: 948, TimeStamp: 00:19:16.93
+A_y: 949, TimeStamp: 00:19:17.03
+A_y: 932, TimeStamp: 00:19:17.13
+A_y: 928, TimeStamp: 00:19:17.23
+A_y: 941, TimeStamp: 00:19:17.33
+A_y: 982, TimeStamp: 00:19:17.43
+A_y: 968, TimeStamp: 00:19:17.53
+A_y: 979, TimeStamp: 00:19:17.63
+A_y: 983, TimeStamp: 00:19:17.73
+A_y: 998, TimeStamp: 00:19:17.83
+A_y: 1002, TimeStamp: 00:19:17.93
+A_y: 985, TimeStamp: 00:19:18.03
+A_y: 968, TimeStamp: 00:19:18.13
+A_y: 986, TimeStamp: 00:19:18.23
+A_y: 992, TimeStamp: 00:19:18.33
+A_y: 991, TimeStamp: 00:19:18.43
+A_y: 989, TimeStamp: 00:19:18.53
+A_y: 994, TimeStamp: 00:19:18.63
+A_y: 1001, TimeStamp: 00:19:18.73
+A_y: 1000, TimeStamp: 00:19:18.83
+A_y: 982, TimeStamp: 00:19:18.93
+A_y: 991, TimeStamp: 00:19:19.03
+A_y: 993, TimeStamp: 00:19:19.13
+A_y: 994, TimeStamp: 00:19:19.23
+A_y: 985, TimeStamp: 00:19:19.33
+A_y: 977, TimeStamp: 00:19:19.43
+A_y: 985, TimeStamp: 00:19:19.53
+A_y: 993, TimeStamp: 00:19:19.63
+A_y: 996, TimeStamp: 00:19:19.73
+A_y: 997, TimeStamp: 00:19:19.83
+A_y: 996, TimeStamp: 00:19:19.93
+A_y: 982, TimeStamp: 00:19:20.03
+A_y: 985, TimeStamp: 00:19:20.13
+A_y: 991, TimeStamp: 00:19:20.23
+A_y: 985, TimeStamp: 00:19:20.33
+A_y: 997, TimeStamp: 00:19:20.43
+A_y: 992, TimeStamp: 00:19:20.53
+A_y: 989, TimeStamp: 00:19:20.63
+A_y: 1000, TimeStamp: 00:19:20.73
+A_y: 986, TimeStamp: 00:19:20.83
+A_y: 971,

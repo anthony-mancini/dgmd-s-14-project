@@ -1,0 +1,116 @@
+A_y: 1003, TimeStamp: 00:11:04.68
+A_y: 1008, TimeStamp: 00:11:04.78
+A_y: 1003, TimeStamp: 00:11:04.88
+A_y: 999, TimeStamp: 00:11:04.98
+A_y: 994, TimeStamp: 00:11:05.08
+A_y: 1010, TimeStamp: 00:11:05.18
+A_y: 997, TimeStamp: 00:11:05.28
+A_y: 1004, TimeStamp: 00:11:05.38
+A_y: 1005, TimeStamp: 00:11:05.48
+A_y: 1034, TimeStamp: 00:11:05.58
+A_y: 1006, TimeStamp: 00:11:05.68
+A_y: 1025, TimeStamp: 00:11:05.78
+A_y: 1133, TimeStamp: 00:11:05.88
+A_y: 737, TimeStamp: 00:11:05.98
+A_y: 934, TimeStamp: 00:11:06.08
+A_y: 918, TimeStamp: 00:11:06.18
+A_y: 935, TimeStamp: 00:11:06.28
+A_y: 886, TimeStamp: 00:11:06.38
+A_y: 922, TimeStamp: 00:11:06.48
+A_y: 936, TimeStamp: 00:11:06.58
+A_y: 985, TimeStamp: 00:11:06.68
+A_y: 1032, TimeStamp: 00:11:06.78
+A_y: 970, TimeStamp: 00:11:06.88
+A_y: 909, TimeStamp: 00:11:06.98
+A_y: 1018, TimeStamp: 00:11:07.08
+A_y: 1013, TimeStamp: 00:11:07.18
+A_y: 1022, TimeStamp: 00:11:07.28
+A_y: 958, TimeStamp: 00:11:07.38
+A_y: 1056, TimeStamp: 00:11:07.48
+A_y: 873, TimeStamp: 00:11:07.58
+A_y: 1078, TimeStamp: 00:11:07.68
+A_y: 830, TimeStamp: 00:11:07.78
+A_y: 1141, TimeStamp: 00:11:07.88
+A_y: 997, TimeStamp: 00:11:07.98
+A_y: 898, TimeStamp: 00:11:08.08
+A_y: 851, TimeStamp: 00:11:08.18
+A_y: 1059, TimeStamp: 00:11:08.28
+A_y: 1033, TimeStamp: 00:11:08.38
+A_y: 946, TimeStamp: 00:11:08.48
+A_y: 959, TimeStamp: 00:11:08.58
+A_y: 1032, TimeStamp: 00:11:08.68
+A_y: 966, TimeStamp: 00:11:08.78
+A_y: 974, TimeStamp: 00:11:08.88
+A_y: 1161, TimeStamp: 00:11:08.98
+A_y: 885, TimeStamp: 00:11:09.08
+A_y: 875, TimeStamp: 00:11:09.18
+A_y: 1055, TimeStamp: 00:11:09.28
+A_y: 1046, TimeStamp: 00:11:09.38
+A_y: 967, TimeStamp: 00:11:09.48
+A_y: 949, TimeStamp: 00:11:09.58
+A_y: 1179, TimeStamp: 00:11:09.68
+A_y: 2204, TimeStamp: 00:11:09.78
+A_y: 1344, TimeStamp: 00:11:09.88
+A_y: 1370, TimeStamp: 00:11:09.98
+A_y: 1484, TimeStamp: 00:11:10.08
+A_y: 1345, TimeStamp: 00:11:10.18
+A_y: 1691, TimeStamp: 00:11:10.28
+A_y: 1178, TimeStamp: 00:11:10.38
+A_y: 723, TimeStamp: 00:11:10.48
+A_y: 1089, TimeStamp: 00:11:10.58
+A_y: 1029, TimeStamp: 00:11:10.68
+A_y: 989, TimeStamp: 00:11:10.78
+A_y: 1001, TimeStamp: 00:11:10.88
+A_y: 958, TimeStamp: 00:11:10.98
+A_y: 987, TimeStamp: 00:11:11.08
+A_y: 982, TimeStamp: 00:11:11.18
+A_y: 944, TimeStamp: 00:11:11.28
+A_y: 1010, TimeStamp: 00:11:11.38
+A_y: 1013, TimeStamp: 00:11:11.48
+A_y: 977, TimeStamp: 00:11:11.58
+A_y: 975, TimeStamp: 00:11:11.68
+A_y: 967, TimeStamp: 00:11:11.78
+A_y: 941, TimeStamp: 00:11:11.88
+A_y: 936, TimeStamp: 00:11:11.98
+A_y: 992, TimeStamp: 00:11:12.08
+A_y: 987, TimeStamp: 00:11:12.18
+A_y: 994, TimeStamp: 00:11:12.28
+A_y: 1064, TimeStamp: 00:11:12.38
+A_y: 1001, TimeStamp: 00:11:12.48
+A_y: 933, TimeStamp: 00:11:12.58
+A_y: 975, TimeStamp: 00:11:12.68
+A_y: 975, TimeStamp: 00:11:12.78
+A_y: 984, TimeStamp: 00:11:12.88
+A_y: 1003, TimeStamp: 00:11:12.98
+A_y: 970, TimeStamp: 00:11:13.08
+A_y: 971, TimeStamp: 00:11:13.18
+A_y: 1020, TimeStamp: 00:11:13.28
+A_y: 987, TimeStamp: 00:11:13.38
+A_y: 980, TimeStamp: 00:11:13.48
+A_y: 984, TimeStamp: 00:11:13.58
+A_y: 947, TimeStamp: 00:11:13.68
+A_y: 991, TimeStamp: 00:11:13.78
+A_y: 996, TimeStamp: 00:11:13.88
+A_y: 949, TimeStamp: 00:11:13.98
+A_y: 987, TimeStamp: 00:11:14.08
+A_y: 989, TimeStamp: 00:11:14.18
+A_y: 991, TimeStamp: 00:11:14.28
+A_y: 953, TimeStamp: 00:11:14.38
+A_y: 980, TimeStamp: 00:11:14.48
+A_y: 986, TimeStamp: 00:11:14.58
+A_y: 987, TimeStamp: 00:11:14.68
+A_y: 964, TimeStamp: 00:11:14.78
+A_y: 1004, TimeStamp: 00:11:14.88
+A_y: 964, TimeStamp: 00:11:14.98
+A_y: 994, TimeStamp: 00:11:15.08
+A_y: 993, TimeStamp: 00:11:15.18
+A_y: 973, TimeStamp: 00:11:15.28
+A_y: 986, TimeStamp: 00:11:15.38
+A_y: 990, TimeStamp: 00:11:15.48
+A_y: 963, TimeStamp: 00:11:15.58
+A_y: 1005, TimeStamp: 00:11:15.68
+A_y: 981, TimeStamp: 00:11:15.78
+A_y: 984, TimeStamp: 00:11:15.88
+A_y: 967, TimeStamp: 00:11:15.98
+A_y: 991, TimeStamp: 00:11:16.08
+A_y: 1004,
