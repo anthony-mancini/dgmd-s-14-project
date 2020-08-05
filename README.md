@@ -152,12 +152,14 @@ The next step is to reach out to physics library creators of virtual reality and
  
 * GitHub
 	* [https://github.com/anthony-mancini/dgmd-s-14-project](https://github.com/anthony-mancini/dgmd-s-14-project)
+* Data Analysis
+	* [https://anthony-mancini.github.io/vr/data.html](https://anthony-mancini.github.io/vr/data.html)
 * Presentation
-	* [https://github.com/anthony-mancini/dgmd-s-14-project/presentation/presentation.pdf](https://github.com/anthony-mancini/dgmd-s-14-project/presentation/presentation.pdf)
+	* [https://anthony-mancini.github.io/vr/presentation.pdf](https://anthony-mancini.github.io/vr/presentation.pdf)
 * Video
-	* [https://github.com/anthony-mancini/dgmd-s-14-project/video/final-project-video.mp4](https://github.com/anthony-mancini/dgmd-s-14-project/video/final-project-video.mp4)
+	* [https://anthony-mancini.github.io/vr/video.mp4](https://anthony-mancini.github.io/vr/video.mp4)
 * Project Proposal
-	* [https://github.com/anthony-mancini/dgmd-s-14-project/project-proposal/ProjectProposal.pdf](https://github.com/anthony-mancini/dgmd-s-14-project/project-proposal/ProjectProposal.pdf)
+	* [https://anthony-mancini.github.io/vr/proposal.pdf](https://anthony-mancini.github.io/vr/proposal.pdf)
 * ST Microelectronic SensorTile set up and tutorials
 	* [https://sites.google.com/view/ucla-stmicroelectronics-iot/home](https://sites.google.com/view/ucla-stmicroelectronics-iot/home)
 
