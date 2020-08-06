@@ -3,8 +3,11 @@
 **DGMD S-14 Project - Harvard University**
 
 Anthony Mancini (Project Lead, VR, Data Analysis)
+
 Gregory Retter (Wearable Design, Data Collection)
+
 Brian Wagner (Documentation)
+
 Nawal Al-Harbi (Support)
 
 
